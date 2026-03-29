@@ -1,28 +1,15 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm HiImZyn</h1>
 
-<!-- Profile Views -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiImZyn&label=Profile%20views&color=ff69b4&style=flat" alt="HiImZyn" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HiImZyn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
-<!-- Stats + Languages -->
+<!-- Social Counters -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HiImZyn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HiImZyn&layout=compact&theme=radical" height="165"/>
-</p>
+  <!-- YouTube Subs -->
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCryO2sYrQJKOUwryZsB3BPg?style=for-the-badge&color=ff0000&label=YouTube%20Subs" />
 
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HiImZyn&theme=radical" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiImZyn&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiImZyn&theme=react-dark" />
+  <!-- Discord Members -->
+  <img src="https://img.shields.io/discord/1486389746107158653?style=for-the-badge&color=5865F2&label=Discord%20Members" />
 </p>
